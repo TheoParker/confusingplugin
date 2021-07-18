@@ -1,0 +1,4 @@
+name: confusing
+main: xyz.cyto.confusing.Main
+version: 1.0
+api-version: 1.16
